@@ -7,11 +7,17 @@ Automation today has become the core of every other field. Who wants to do work 
 ## Instructions
 
 This is the cumulative code made for the final working model of the Vacuum Cleaner
+
 This is basic code for any Arduino UNO or MEGA board
+
 The motor driver used is an L298 with 2*5V DC Motors
+
 Ultrasonic Sensors used are HC-SR04
+
 The Vacuum we made was made using a 5V DC Motor in a Pipe such that it creates a suction
+
 For the dust collection, we used a Bag Attached to the back of the Pipe
 
+#### NOTE
 This was my Project for the First Year of my Engineering College in the Field of Robotics and Automation
 This helped me grasp basic concepts of Arduino and Electronics along with multiple Mechanical Concepts and basic Embedded C Coding
